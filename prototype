@@ -1,0 +1,41 @@
+<div>
+  <link href="./c_frame1.css" rel="stylesheet" />
+  <div class="c_frame1-frame1">
+    <div class="c_frame1-frame2">
+      <img
+        src="assets/60830.png"
+        alt="rectangle"
+        width="291"
+        height="264"
+        class="c_frame1-rectangle1"
+        />
+    </div>
+    <div class="c_frame1-frame3">
+      <img
+        src="assets/60831.png"
+        alt="rectangle"
+        width="347"
+        height="264"
+        class="c_frame1-rectangle2"
+        />
+    </div>
+    <div class="c_frame1-frame4">
+      <img
+        src="assets/60832.png"
+        alt="rectangle"
+        width="348"
+        height="264"
+        class="c_frame1-rectangle3"
+        />
+    </div>
+    <div class="c_frame1-frame5">
+      <img
+        src="assets/60833.png"
+        alt="rectangle"
+        width="348"
+        height="264"
+        class="c_frame1-rectangle4"
+        />
+    </div>
+  </div>
+</div>
